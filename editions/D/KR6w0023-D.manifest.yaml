@@ -1,0 +1,216 @@
+canonical_identifier: bkk:krp/KR6w0023/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0023/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論訂正
+  identifiers:
+    krp: KR6w0023
+    cbeta: D23n8879
+    cbeta_old_id: D23n8879
+    authorityid: CA0008022
+    json_key: D8879
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D23/D23n8879.xml
+    old_id: D23n8879
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0023_000-D.yaml, hash: 'sha256:563b15f162579e1f2948eaab52d42acc9ae8fb22ad1ad95a8abe12dc366dd483'}
+  - {seq: 1, filename: KR6w0023_001-D.yaml, hash: 'sha256:172fd63712ee2d0d71245b8366f311ef2b0a5e79c760f68c6b445a7cbe8357e1'}
+  - {seq: 2, filename: KR6w0023_002-D.yaml, hash: 'sha256:578c62c104057fe6a1e7af8af92625b163672e780cf9c5317f32c359e581d0e2'}
+  - {seq: 3, filename: KR6w0023_003-D.yaml, hash: 'sha256:89de57feb43c4c04d1e26ee60bebd65b5422004ab6206777ca1f54b250eb41f7'}
+  - {seq: 4, filename: KR6w0023_004-D.yaml, hash: 'sha256:bcda43435fcdbfe2e4713cb5d59c76fd323ceed3035a317f518def51b83d40e5'}
+  - {seq: 5, filename: KR6w0023_005-D.yaml, hash: 'sha256:71d3903cc4be0dda54d815ba87678f8e803659bd1e44f349e669e7f60e62164f'}
+  - {seq: 6, filename: KR6w0023_006-D.yaml, hash: 'sha256:322997d4c921abe64460198ffed1fff2306b2ac8613336efb9677d40cc10d70d'}
+  - {seq: 7, filename: KR6w0023_007-D.yaml, hash: 'sha256:9f879927d7ff6b5455670ace91da517748fb600002f1e6c5aea2d1edb30ff76f'}
+  - {seq: 8, filename: KR6w0023_008-D.yaml, hash: 'sha256:98d836a489842e1b1acdb818ec5ba99844e675f9fb2afe1058daf3debd2184cc'}
+  - {seq: 9, filename: KR6w0023_009-D.yaml, hash: 'sha256:eadf04ff58fa33b4e94428ff5bcdbd9467c28bfa6aacace4468fa498b06db1fd'}
+  - {seq: 10, filename: KR6w0023_010-D.yaml, hash: 'sha256:e8340dd31b344882c0ef09255e290d1778e2c10f2f9037a0c0f0edc007c7e0a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0023_000-D.markers.yaml, hash: 'sha256:ffcb106d1bd305ae5f58339981d366556c25d214750b1cd6e5eae94031223c17'}
+  - {seq: 1, role: markers, filename: assets/KR6w0023_001-D.markers.yaml, hash: 'sha256:75ffd75eaaf830598848ef2c642e878974b9aa87be3b29ef4ce54374a20488fd'}
+  - {seq: 2, role: markers, filename: assets/KR6w0023_002-D.markers.yaml, hash: 'sha256:3d096ed1c983fedd4ce54c6be5cae82b57899980588d5e9a38faea25945b1653'}
+  - {seq: 3, role: markers, filename: assets/KR6w0023_003-D.markers.yaml, hash: 'sha256:43dd0c5790c813cdf1b85687f53edf3c3c0b231073771dcf92fdbd37bbf1c816'}
+  - {seq: 4, role: markers, filename: assets/KR6w0023_004-D.markers.yaml, hash: 'sha256:09f138e89bb4319578de306e047b6f04c3f17502c7cae16af36f1952c6959053'}
+  - {seq: 5, role: markers, filename: assets/KR6w0023_005-D.markers.yaml, hash: 'sha256:5a1924b696a9e17b6282bfa0aa68056c1907d4fdb1d000a80378ffc61be26805'}
+  - {seq: 6, role: markers, filename: assets/KR6w0023_006-D.markers.yaml, hash: 'sha256:48cc8dccc40acb1668607dff5657c4850383a4bf9369a6f9e49bc220a1d00e1e'}
+  - {seq: 7, role: markers, filename: assets/KR6w0023_007-D.markers.yaml, hash: 'sha256:f44163debace042e6d80bcc841359729acf2ce1acd8d9fb6e9f263fc1eefef36'}
+  - {seq: 8, role: markers, filename: assets/KR6w0023_008-D.markers.yaml, hash: 'sha256:6e8693cd217fa47778c1eee2e106d550cad6f8a19150bf41faab6d44877c1156'}
+  - {seq: 9, role: markers, filename: assets/KR6w0023_009-D.markers.yaml, hash: 'sha256:f6260c124e0df1df7546159138c6eda01e786d4e887e0abbbd4ec0281c479fdc'}
+  - {seq: 10, role: markers, filename: assets/KR6w0023_010-D.markers.yaml, hash: 'sha256:ec8f85ec3a0001fc4794953aae7708aacaf5e4667db24ce056701f7b675985c3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0023_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0023_D_000-mulu-2
+    span:
+    - front
+    - 452
+    - 452
+  label: 題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0023_D_000-mulu-3
+    span:
+    - front
+    - 664
+    - 664
+  label: 訂正
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 42171
+  label: 成唯識論訂正卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 初題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-2
+    span:
+    - body
+    - 604
+    - 604
+  label: 二論主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-3
+    span:
+    - body
+    - 802
+    - 802
+  label: 三譯師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-4
+    span:
+    - body
+    - 1032
+    - 1032
+  label: 四正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0023_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 38116
+  label: 成唯識論訂正卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0023_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 32733
+  label: 成唯識論訂正卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0023_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 31406
+  label: 成唯識論訂正卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0023_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 29027
+  label: 成唯識論訂正卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0023_D_006-juan-start
+    span:
+    - body
+    - 0
+    - 31369
+  label: 成唯識論訂正卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0023_D_007-juan-start
+    span:
+    - body
+    - 0
+    - 35384
+  label: 成唯識論訂正卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0023_D_008-juan-start
+    span:
+    - body
+    - 0
+    - 37570
+  label: 成唯識論訂正卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0023_D_009-juan-start
+    span:
+    - body
+    - 0
+    - 35881
+  label: 成唯識論訂正卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0023_D_010-juan-start
+    span:
+    - body
+    - 0
+    - 28001
+  label: 成唯識論訂正卷第十
+  type: juan
+  level: 1
+hash: sha256:fdf8625a31fd36a315d3aa34d013fe37df2d76db30d7348d109a162d9aea0365

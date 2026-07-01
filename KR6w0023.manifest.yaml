@@ -1,0 +1,218 @@
+canonical_identifier: bkk:krp/KR6w0023/v1
+canonical_location: https://kanripo.org/bkk/KR6w0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論訂正
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D23/D23n8879.xml
+    old_id: D23n8879
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0023_000.yaml, hash: 'sha256:20991a2999c3e10f359219a11718ab3ca7529c35b83fe9b79736bac870e1ad69'}
+  - {seq: 1, filename: KR6w0023_001.yaml, hash: 'sha256:5625202cac5ebbc04050251a816c4ee1cb7fa70f475abf8458d7eb38071ff0d6'}
+  - {seq: 2, filename: KR6w0023_002.yaml, hash: 'sha256:48fafe1f7b6641e336524c1779f20951fb5dc053ad0353076812ca6a89f9fedf'}
+  - {seq: 3, filename: KR6w0023_003.yaml, hash: 'sha256:cadebfad0b588ca889dc2489f5ef8c9aca6cd435215f27d336d24dc58d532c83'}
+  - {seq: 4, filename: KR6w0023_004.yaml, hash: 'sha256:4765545ffbd585c92a58ae9734a01e9cd795d24ff00e8c975e6e433dad2a30d6'}
+  - {seq: 5, filename: KR6w0023_005.yaml, hash: 'sha256:4ba1d1aeb4c571b7c69edc2005f9da0fb52d6af999f3e577d04772979fe803cf'}
+  - {seq: 6, filename: KR6w0023_006.yaml, hash: 'sha256:2bc16c718f0f368ba082cc07d304121d1494d6e1946360f5f98d1229b75ba10a'}
+  - {seq: 7, filename: KR6w0023_007.yaml, hash: 'sha256:f781bbbed053c92610e69821f03b2c9b7e7192594609824852f9b927127a0d02'}
+  - {seq: 8, filename: KR6w0023_008.yaml, hash: 'sha256:fe1e1a550d2be570a45897234a851cd08792b507a9449111128167f0135df166'}
+  - {seq: 9, filename: KR6w0023_009.yaml, hash: 'sha256:00134a28050308cc32ab58da7eb9f83c85951643e9e68df800d6b3d9ad857232'}
+  - {seq: 10, filename: KR6w0023_010.yaml, hash: 'sha256:5483bc3112fc4ad14c264072547c9d5779c067394b1446c0cd6c2b4f11dfd047'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0023_000.markers.yaml, hash: 'sha256:8e4ed8f643299952e429ed3abcacb293e2e4595ba12dd6f7f521508a85097b6b'}
+  - {seq: 1, role: markers, filename: assets/KR6w0023_001.markers.yaml, hash: 'sha256:decb0da699e9785b1d1489bee3bd50986932ddaefb0ef9a52a7d89ba54370ae6'}
+  - {seq: 2, role: markers, filename: assets/KR6w0023_002.markers.yaml, hash: 'sha256:f1cb70ae75d0640cf4174adf08a002a77543d1225fcfd0fbd7e8155299eabf0b'}
+  - {seq: 3, role: markers, filename: assets/KR6w0023_003.markers.yaml, hash: 'sha256:6bc45739f41eae0f12e68d693e09d2356fd5f09007a9daf556e3a2c5b5b34ef4'}
+  - {seq: 4, role: markers, filename: assets/KR6w0023_004.markers.yaml, hash: 'sha256:bf18f4851df378e361a92842bf868c7be78281657b3ffa748f32a61a88d364f7'}
+  - {seq: 5, role: markers, filename: assets/KR6w0023_005.markers.yaml, hash: 'sha256:2468a534c60ef2325f0826c52ce046dc70e0d8c700008d0efcb3cb40b4dfdeab'}
+  - {seq: 6, role: markers, filename: assets/KR6w0023_006.markers.yaml, hash: 'sha256:b4d740c3febd589fad37085d65897aeb569503430fe043c16de159b52a84ee92'}
+  - {seq: 7, role: markers, filename: assets/KR6w0023_007.markers.yaml, hash: 'sha256:f1883a6201a50e7c98a8e60617952455e8847014706862ac3cb286f38756b615'}
+  - {seq: 8, role: markers, filename: assets/KR6w0023_008.markers.yaml, hash: 'sha256:64bd2408f931e6e65edd0a0553c3e55f1d299fbf335abe03fb4b3682ab759f6f'}
+  - {seq: 9, role: markers, filename: assets/KR6w0023_009.markers.yaml, hash: 'sha256:df95a3db972a184917ddd1cced93693366dc192102e77ff01d861b5a7db2c03d'}
+  - {seq: 10, role: markers, filename: assets/KR6w0023_010.markers.yaml, hash: 'sha256:43968125ce54318a8a739ac4cde7896fadbb81a561f035f1616b5cd18754c4e4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0023_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0023_D_000-mulu-2
+    span:
+    - front
+    - 452
+    - 452
+  label: 題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0023_D_000-mulu-3
+    span:
+    - front
+    - 664
+    - 664
+  label: 訂正
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 42171
+  label: 成唯識論訂正卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 初題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-2
+    span:
+    - body
+    - 604
+    - 604
+  label: 二論主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-3
+    span:
+    - body
+    - 802
+    - 802
+  label: 三譯師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0023_D_001-mulu-4
+    span:
+    - body
+    - 1032
+    - 1032
+  label: 四正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0023_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 38116
+  label: 成唯識論訂正卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0023_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 32733
+  label: 成唯識論訂正卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0023_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 31406
+  label: 成唯識論訂正卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0023_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 29027
+  label: 成唯識論訂正卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0023_D_006-juan-start
+    span:
+    - body
+    - 0
+    - 31369
+  label: 成唯識論訂正卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0023_D_007-juan-start
+    span:
+    - body
+    - 0
+    - 35384
+  label: 成唯識論訂正卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0023_D_008-juan-start
+    span:
+    - body
+    - 0
+    - 37570
+  label: 成唯識論訂正卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0023_D_009-juan-start
+    span:
+    - body
+    - 0
+    - 35881
+  label: 成唯識論訂正卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0023_D_010-juan-start
+    span:
+    - body
+    - 0
+    - 28001
+  label: 成唯識論訂正卷第十
+  type: juan
+  level: 1
+hash: sha256:b514d1bb56da2172e1febcb73bfdc8abe9fcf6e880e0307b36feda4b0c29b2cf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
