@@ -18,7 +18,7 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0023_000.yaml, hash: 'sha256:2c72df1aaa6059cfbe495a073b85476fd203e23dcb95936d91fa3fa65d10e149'}
+  - {seq: 0, filename: KR6w0023_000.yaml, hash: 'sha256:3ed83f899c22ac91f7a80ff6bf9a4952637d9bd7d647533718d96eb7bc826385'}
   - {seq: 1, filename: KR6w0023_001.yaml, hash: 'sha256:6b7f5f2c08e4606724e13d7385017bbe95321fd2e22609fc0dfa080fdaee922f'}
   - {seq: 2, filename: KR6w0023_002.yaml, hash: 'sha256:014e70ff7cbd41eb5cd93bd23069247acc28af6ae05dda5d4018878785e174c7'}
   - {seq: 3, filename: KR6w0023_003.yaml, hash: 'sha256:fb438ad113b6ea520e283ef75af1a057bcb630475598b6fa4fe34a26fa1d0524'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 9, filename: KR6w0023_009.yaml, hash: 'sha256:a4090cad8e8664e2c4fadf6e414ea88ef08bff8a079373dcff63485c0b98993c'}
   - {seq: 10, filename: KR6w0023_010.yaml, hash: 'sha256:eabaaf755cb198429579e7ebb0568e84e238086214cbab50deefd7848b794525'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0023_000.markers.yaml, hash: 'sha256:8fd42da19e89e1bca6a63f898cb75c05430e5306c092d12dcde4a94fb83418c7'}
+  - {seq: 0, role: markers, filename: assets/KR6w0023_000.markers.yaml, hash: 'sha256:cdb50278b4ae60ec14a4970aa0430a72de683bfecd0dc45c96a8c07d398670b7'}
   - {seq: 1, role: markers, filename: assets/KR6w0023_001.markers.yaml, hash: 'sha256:124660558e5ebb076ce47a632d52bc0d0076bb094084eae6716e3c9e7287c0cb'}
   - {seq: 2, role: markers, filename: assets/KR6w0023_002.markers.yaml, hash: 'sha256:91744318d394d5e4566ef5f2182b32414ce8ad8f93e691a60dd0c79e16dacced'}
   - {seq: 3, role: markers, filename: assets/KR6w0023_003.markers.yaml, hash: 'sha256:3c29c420ee206e2c4069883c19f71a9ac1cafac52d073e0f0782070ac281cbfc'}
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0023_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0023_D_000-mulu-2
     span:
-    - front
+    - body
     - 452
     - 452
   label: 題辭
@@ -66,7 +66,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0023_D_000-mulu-3
     span:
-    - front
+    - body
     - 664
     - 664
   label: 訂正
@@ -212,7 +212,7 @@ table_of_contents:
   label: 成唯識論訂正卷第十
   type: juan
   level: 1
-hash: sha256:172e5bd90faada5db5ab5e152bc616cc084f7498532a088289fa28ea1b748f78
+hash: sha256:1301f80ed7bb6f044abc26c2595f0c55d1082764f1fe0a500e57df897ecd863d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
